@@ -7,6 +7,9 @@ const Articles = () => {
     <section className="container mx-auto px-5 py-10">
       <div className="flex flex-wrap md:gap-x-5 gap-y-5 pb-10">
         <ArticleCard />
+        <ArticleCard />
+        <ArticleCard />
+        
       </div>
       <button className="mx-auto flex items-center gap-x-2 font-bold text-primary border-2 border-primary px-6 py-3 rounded-lg">
         <span>More articles</span>

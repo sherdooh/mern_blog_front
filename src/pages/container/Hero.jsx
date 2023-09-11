@@ -10,7 +10,7 @@ const Hero = () => {
           <h1 className="font-roboto text-3xl font-bold text-[#6C88D0] md:text-5xl lg:text-4xl xl:text-5xl lg:max-w-[540px]">
             Health Articles that Interests you!!
           </h1>
-          <p className="text-dark-light mt-4 md:text-xl lg:text-base xl:text-xl">
+          <p className="text-dark-hard mt-4 md:text-xl lg:text-base xl:text-xl">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit.
             Voluptatum aspernatur ullam cupiditate placeat aliquid, natus
             repellat ducimus enim optio commodi. Aperiam, consequuntur?
